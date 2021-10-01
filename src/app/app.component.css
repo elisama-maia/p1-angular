@@ -1,0 +1,24 @@
+h1,
+p {
+  text-align: center;
+}
+
+.git-link {
+  background-color: #f44336;
+}
+
+.git-link,
+a:link,
+a:visited {
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+}
+
+a:hover,
+a:active {
+  background-color: red;
+}
